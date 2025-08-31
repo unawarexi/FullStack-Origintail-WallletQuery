@@ -1,4 +1,4 @@
-# Foundry Origintail Wallet Query
+# FullStack Origintail Blockchain Wallet Query
 
 A full-stack application for querying and crawlling wallet transactions and NFTs with a React frontend and Node.js backend.
 
