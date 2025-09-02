@@ -1,11 +1,11 @@
 # FullStack Origintail Blockchain Wallet Query
 
-A full-stack application for querying and crawlling wallet transactions and NFTs with a React frontend and Node.js backend.
+A full-stack application for querying and analyzing wallet transactions and NFTs with a React frontend and Node.js backend.
 
 ## Quick Start
 
 ### Prerequisites
-- Node.js (v14 or higher)
+- Node.js (v18 or higher)
 - npm or yarn package manager
 
 ### Installation
